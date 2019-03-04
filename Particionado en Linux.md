@@ -1,11 +1,11 @@
-#Particionado con discos en GNU/Linux
+# Particionado con discos en GNU/Linux
 
-##Asociar volumen
+## Asociar volumen
 
 Vamos a utilizar el sistema operativo Debian en una máquina virtual en VirtualBox.
 La capacidad del volumen es de 1GB.
 
-##Comando fdisk
+## Comando fdisk
 
 - Primeras particiones:
 Primaria de 150MB para sistema de ficheros Linux.
@@ -419,7 +419,7 @@ sr0    iso966 VBOXADDITIONS_5.1.38_122592
 
 
 
-##Comando gdisk
+## Comando gdisk
 
 - Partición:
 Partición primaria 150MB tipo Linux
